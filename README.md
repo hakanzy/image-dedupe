@@ -7,7 +7,7 @@ Image Dedupe (compare two images for similarity)
 
 - It is a simple image duplication tool.
 
-- It uses average hash method for image hashing.
+- It uses average hash(hash) method for image hashing(maybe I will add phash and dhash too).
 
 - It uses hamming distance for comparing image hashes.
 
